@@ -9,3 +9,6 @@
 
 
 * selectSort(选择排序)
+
+
+* insertSort(插入排序)
